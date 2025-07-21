@@ -169,6 +169,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-- Product Owner: product.support@cromstelit.com
+- Product Owner: support@cromstelit.com
 - Project Sponsor: support@cromstelit.com
 - General Inquiries: info@cromstelit.com
