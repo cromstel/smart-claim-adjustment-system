@@ -160,7 +160,7 @@ Data Tier
 
 ## Support
 
-- For issues, use the [issue tracker](#) or contact support at support@yourcompany.com.
+- For issues, use the [issue tracker](#) or contact support at support@cromstelit.com.
 - See the in-app help system and user/admin manuals for guidance.
 
 ## License
